@@ -1,0 +1,51 @@
+Movie,Year,RunTime,imdb,Genre,votes
+Once Upon a Time... in Hollywood,2019,161 minutes,7.6,"Comedy, Drama",608575
+Avengers: Endgame,2019,181 minutes,8.4,"Action, Adventure, Drama",908944
+Zack Snyder's Justice League,2021,242 minutes,8.1,"Action, Adventure, Fantasy",316756
+The Shawshank Redemption,1994,142 minutes,9.3,Drama,2427148
+The Godfather,1972,175 minutes,9.2,"Crime, Drama",1680054
+Harry Potter and the Sorcerer's Stone,2001,152 minutes,7.6,"Adventure, Family, Fantasy",687473
+The Matrix,1999,136 minutes,8.7,"Action, Sci-Fi",1728784
+The Dark Knight,2008,152 minutes,9,"Action, Crime, Drama",2383079
+Pulp Fiction,1994,154 minutes,8.9,"Crime, Drama",1883155
+Thor: Ragnarok,2017,130 minutes,7.9,"Action, Adventure, Comedy",630545
+Fight Club,1999,139 minutes,8.8,Drama,1914208
+Avengers: Infinity War,2018,149 minutes,8.4,"Action, Adventure, Sci-Fi",900052
+Gisaengchung,2019,132 minutes,8.6,"Comedy, Drama, Thriller",634165
+Joker,2019,122 minutes,8.4,"Crime, Drama, Thriller",1031638
+Druk,2020,117 minutes,7.8,"Comedy, Drama",94379
+Titanic,1997,194 minutes,7.8,"Drama, Romance",1080939
+Guardians of the Galaxy,2014,121 minutes,8,"Action, Adventure, Comedy",1076996
+The Father,2020,97 minutes,8.3,Drama,81537
+Dunkirk,2017,106 minutes,7.8,"Action, Drama, History",583457
+The Lord of the Rings: The Fellowship of the Ring,2001,178 minutes,8.8,"Action, Adventure, Drama",1709992
+Alien,1979,117 minutes,8.4,"Horror, Sci-Fi",811792
+Interstellar,2014,169 minutes,8.6,"Adventure, Drama, Sci-Fi",1584515
+Watchmen,2009,162 minutes,7.6,"Action, Drama, Mystery",520778
+Jaws,1975,124 minutes,8,"Adventure, Thriller",557425
+Little Women,2019,135 minutes,7.8,"Drama, Romance",159412
+Knives Out,2019,130 minutes,7.9,"Comedy, Crime, Drama",506889
+The Wolf of Wall Street,2013,180 minutes,8.2,"Biography, Crime, Drama",1241579
+Blade Runner 2049,2017,164 minutes,8,"Action, Drama, Mystery",486895
+Forrest Gump,1994,142 minutes,8.8,"Drama, Romance",1875621
+The Gentlemen,2019,113 minutes,7.8,"Action, Comedy, Crime",272946
+Boogie Nights,1997,155 minutes,7.9,Drama,246820
+The Game,1997,129 minutes,7.8,"Drama, Mystery, Thriller",362717
+Inception,2010,148 minutes,8.8,"Action, Adventure, Sci-Fi",2138908
+Inglourious Basterds,2009,153 minutes,8.3,"Adventure, Drama, War",1313390
+Aliens,1986,137 minutes,8.3,"Action, Adventure, Sci-Fi",670127
+Back to the Future,1985,116 minutes,8.5,"Adventure, Comedy, Sci-Fi",1096391
+Braveheart,1995,178 minutes,8.3,"Biography, Drama, History",979852
+The Avengers,2012,143 minutes,8,"Action, Adventure, Sci-Fi",1293903
+The Departed,2006,151 minutes,8.5,"Crime, Drama, Thriller",1225367
+The Silence of the Lambs,1991,118 minutes,8.6,"Crime, Drama, Thriller",1313535
+The Hobbit: An Unexpected Journey,2012,169 minutes,7.8,"Adventure, Fantasy",773450
+Jurassic Park,1993,127 minutes,8.1,"Action, Adventure, Sci-Fi",895576
+Soul,2020,100 minutes,8.1,"Animation, Adventure, Comedy",264976
+The Big Lebowski,1998,117 minutes,8.1,"Comedy, Crime, Sport",756157
+The Mitchells vs the Machines,2021,113 minutes,7.7,"Animation, Adventure, Comedy",68368
+Terminator 2: Judgment Day,1991,137 minutes,8.5,"Action, Sci-Fi",1022018
+Goodfellas,1990,146 minutes,8.7,"Biography, Crime, Drama",1054288
+Kill Bill: Vol. 1,2003,111 minutes,8.1,"Action, Crime, Drama",1032331
+Gone Girl,2014,149 minutes,8.1,"Drama, Mystery, Thriller",894102
+American Psycho,2000,101 minutes,7.6,"Comedy, Crime, Drama",515658
